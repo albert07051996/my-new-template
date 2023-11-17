@@ -1,0 +1,14 @@
+
+
+.content{
+         margin: auto;
+}
+.ant-layout-content .content  {
+    min-height: 1380px;
+}
+.ant-layout-content-div{
+    min-height:  calc(100vh - 185px);  
+    max-width: 1282px;
+
+}
+
